@@ -1,9 +1,9 @@
 -
  👋 Hi, I’m @metaspine
-- 👀 I’m interested in Bone Metastases(BM/BoM).
-- 🌱 I’m currently learning Bioinformatics.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :shenzhilong2000@163.com
+- 👀 I’m interested in Bone Metastases(BoM), especially in spine.
+- 🌱 I’m currently learning Bioinformatics(single cell, epigenetics).
+- 💞️ I’m looking to collaborate on ...emm
+- 📫 How to reach me : shenzhilong2000@163.com
 
 <!---
 metaspine/metaspine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
