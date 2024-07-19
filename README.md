@@ -1,8 +1,7 @@
--
- 👋 Hi, I’m Zestel Shen@metaspine
+- 👋 Hi, I’m Zestel Shen@metaspine
 - 👀 I’m interested in Bone Metastases(BoM), especially in spine.
 - 🌱 I’m currently learning Bioinformatics(single cell, epigenetics).
-- 💞️ I’m looking to collaborate on ...emm
+- 💞️ I’m looking to collaborate on bone metastasis
 - 📫 How to reach me : shenzhilong2000@163.com
 
 <!---
